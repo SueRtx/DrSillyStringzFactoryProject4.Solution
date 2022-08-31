@@ -21,7 +21,7 @@
 The factory manager should be able to add a list of engineers, a list of machines, and specify which engineers are licensed to repair which machines. There are  many-to-many relationships between Engineers and Machines. An engineer can be licensed to repair many machines and a machine can have many engineers licensed to repair it. 
 
 ## Home View
-![Home Index](Factpry/wwwroot/image/factory.png "Home Index image")
+![Home Index](Factory/wwwroot/image/factory.png "Home Index image")
 
 
 ## Setup/Installation Requirements
